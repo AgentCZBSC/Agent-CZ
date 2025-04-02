@@ -1,7 +1,7 @@
 <h1 align="center">Agent CZ - AI Chatbot</h1>
 
 <p align="center">
-  <img src="agentcz.png" alt="Agent CZ Logo" width="200px">
+  <img src="mainlogo.png" alt="Agent CZ Logo" width="200px">
 </p>
 
 <p align="center">
